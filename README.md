@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 I am going to document my journey to becoming a fullstack developer here!
-🎓 Studied Computer Science from Queen's University 🇨🇦 🇷🇴
-🌱 Currently learning frontend -> HTML, CSS, JS
+💻 I am going to document my journey to becoming a fullstack developer here!<br/>
+🎓 Studied Computer Science from Queen's University 🇨🇦 🇷🇴<br/>
+🌱 Currently learning frontend -> HTML, CSS, JS<br/>
