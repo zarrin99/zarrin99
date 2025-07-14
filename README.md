@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi I'm Zarrin! 👋
 
 <!--
 **zarrin99/zarrin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 I am going to document my journey to becoming a fullstack developer here!
+🎓 Studied Computer Science from Queen's University 🇨🇦 🇷🇴
+🌱 Currently learning frontend -> HTML, CSS, JS
